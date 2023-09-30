@@ -1,5 +1,5 @@
 # Email Validation Practice
 
 Live Link:
--sophisticated-society.surge.sh
+sophisticated-society.surge.sh
 
